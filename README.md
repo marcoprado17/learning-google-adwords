@@ -50,6 +50,4 @@
     * Para campanhas de website você deve especificar:
         * Categoria (compra, inscrição, lead, visulizar página específica)
         * Colocar no código do website um script javascript global () e um script javascript na página que contabilizará a conversão (event snippet)
-
-
-
+* <<Teste>>
